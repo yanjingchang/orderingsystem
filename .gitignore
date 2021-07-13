@@ -12,7 +12,8 @@ target/
 
 # idea
 .idea/
-*.iml
+*.iml；
+
 
 *velocity.log*
 
