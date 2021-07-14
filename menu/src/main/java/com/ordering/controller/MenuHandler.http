@@ -1,0 +1,12 @@
+
+### 查询所有的菜品信息 分页，显式第一页，每页5条信息
+GET http://localhost:8020/menu/findall/1/5
+
+### 查询所有的菜品类比信息
+GET http://localhost:8020/menu/findall
+
+### 根据菜品编号查询菜品 menu.id
+http://localhost:8020/menu/findbyid/35
+
+
+###
